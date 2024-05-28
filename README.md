@@ -4,8 +4,8 @@
     
   - This project highlights the following approaches:
     
-      1) Identifying a dataset to work with
-      2) Cleaning the data
+      - 1) Identifying a dataset to work with
+      - 2) Cleaning the data
       3) Performing EDA
       4) Performing Feature Engineering
       5) Scaling of Numerical Data
