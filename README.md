@@ -13,4 +13,4 @@
       7) Running multiple iterations of Linear Regression and Random Forest Regression models, which includes hyperparameter tuning, adjustments of the training/test set ratio and adjustments of features
       8) Creating visualizations of the data to tell the story of how our best model performed
    
-- Link to the Project Files: [Project 1 Files](https://github.com/meierd1809/DSC-450-Applied-Data-Science/tree/main/Projects/Project%201)
+- Link to the Project Files: [Project 1 Files](https://github.com/meierd1809/Predicting-Energy-Consumption/tree/main/Project%20Files)
